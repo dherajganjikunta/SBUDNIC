@@ -59,7 +59,7 @@ const team = [
       "",
     team: "Program Management and Public Relations",
     category: "General",
-    position: "Program Manager",
+    position: "Project Director",
     image: selia,
   },
   {
