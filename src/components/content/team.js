@@ -53,16 +53,6 @@ const team = [
     image: selia,
   },
   {
-    id: 40,
-    title: "Benjamin Kilimnik",
-    subtitle:
-      "A junior at Brown University studying computer science with a focus on systems research, data science, and web design. When I'm not coding up a hot mess in the Computer Science department, you can find me working at the Center for Computation and Visualization, researching for Systems@Brown or reading historical fiction next to a radiator.",
-    team: "Program Management and Public Relations",
-    category: "",
-    position: "Public Relations Analyst",
-    image: benji,
-  },
-  {
     id: 90,
     title: "Miku Suga",
     subtitle:
