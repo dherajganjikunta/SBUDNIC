@@ -27,20 +27,10 @@ const team = [
     title: "Marco Cross",
     subtitle:
       "Hardware isn't hard. Perpetually inventing, designing, and making. I get antsy if my hands stop moving.",
-    category: "Subsystem Managing Engineer",
+    category: "Subsystem Managing Engineer, Chief Engineer",
     image: marco,
     team: "AOCS",
     position: "Subsystem Managing Engineer",
-  },
-  {
-    id: 52,
-    title: "Marco Cross",
-    subtitle:
-      "Hardware isn't hard. Perpetually inventing, designing, and making. I get antsy if my hands stop moving.",
-    category: "Chief Engineer",
-    position: "Chief Engineer",
-    image: marco,
-    team: "Program Management and Public Relations",
   },
   {
     id: 3,
