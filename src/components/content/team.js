@@ -33,16 +33,6 @@ const team = [
     position: "Head Engineer, Subsystem Managing Engineer",
   },
   {
-    id: 3,
-    title: "Dheraj Ganjikunta",
-    subtitle:
-      "Let's go to space! What inspires me to work on SBUDNIC is the promise of 'space for everyone,' which is why I'm committed to developing the program as an open source project in record time. I'm part of Brown's class of 2022, and am studying Economics and International & Public Affairs. I'll be at McKinsey & Co in NYC after graduation. In my free time, I enjoy hiking and reading sci-fi (The Culture and The Expansre are my favorite series!)",
-    category: "Program Manager",
-    position: "Program Manager",
-    image: dheraj,
-    team: "Program Management and Public Relations",
-  },
-  {
     id: 28,
     title: "Selia Jindal",
     subtitle:
@@ -61,6 +51,16 @@ const team = [
     position: "Public Relations Analyst",
     team: "Program Management and Public Relations",
     image: sbudnicNW,
+  },
+   {
+    id: 3,
+    title: "Dheraj Ganjikunta",
+    subtitle:
+      "Let's go to space! What inspires me to work on SBUDNIC is the promise of 'space for everyone,' which is why I'm committed to developing the program as an open source project in record time. I'm part of Brown's class of 2022, and am studying Economics and International & Public Affairs. I'll be at McKinsey & Co in NYC after graduation. In my free time, I enjoy hiking and reading sci-fi (The Culture and The Expansre are my favorite series!)",
+    category: "Program Manager",
+    position: "Program Manager",
+    image: dheraj,
+    team: "Program Management and Public Relations",
   },
   {
     id: 6,
